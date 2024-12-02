@@ -1,0 +1,1 @@
+# Dell-Inspiron-14-3000-3467-OpenCore
